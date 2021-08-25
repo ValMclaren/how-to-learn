@@ -1,7 +1,3 @@
-@import url(./__bref/two-columns__bref.css);
-@import url(./__main-text/two-columns__main-text.css);
-@import url(./__paragraph/two-columns__paragraph.css);
-
 .two-columns {
   display: flex;
   justify-content: space-between;
